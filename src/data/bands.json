@@ -1,0 +1,61 @@
+{
+  "musics": {
+    "rocks": {
+      "band": [
+        {
+          "name": "Aerosmith",
+          "image": "./images/aerosmith.jpg",
+          "album": "Aerosmith album info"
+        },
+        {
+          "name": "Rush",
+          "image": "./images/rush.jpg",
+          "album": "Rush album info"
+        },
+        {
+          "name": "U2",
+          "image": "./images/u2.jpg",
+          "album": "U2 album info"
+        }
+      ]
+    },
+    "top40s": {
+      "band": [
+        {
+          "name": "Tears for Fears",
+          "image": "./images/tears.jpg",
+          "album": "Tears for Fears - music info"
+        },
+        {
+          "name": "Duran Duran",
+          "image": "./images/duran.jpeg",
+          "album": "Duran Duran - music info"
+        },
+        {
+          "name": "Eurythmics",
+          "image": "./images/Eurythmics.jpg",
+          "album": "Eurythmics - music info"
+        }
+      ]
+    },
+    "raps": {
+      "band": [
+        {
+          "name": "Run D.M.C",
+          "image": "./images/run.jpg",
+          "album": "Run D.M.C - album information"
+        },
+        {
+          "name": "Beastie Boys",
+          "image": "./images/beastie.jpg",
+          "album": "Beastie Boys - album information"
+        },
+        {
+          "name": "The Sugar Hill Gang",
+          "image": "./images/sugar.jpg",
+          "album": "The Sugar Hill Gang - album information"
+        }
+      ]
+    }
+  }
+}
